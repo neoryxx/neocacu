@@ -115,6 +115,8 @@ Para remover o Neocacu do sistema:
 
 Feito com ❤️ por neoryxx
 
+🐍 Desenvolvido em Python
+
 📄 Projeto sob licença MIT — use, modifique e compartilhe como quiser!
 
 🙋‍♂️ Precisa de ajuda? Abra uma issue no GitHub ou entre em contato com o desenvolvedor.
