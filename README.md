@@ -28,7 +28,7 @@ Quando você baixar o arquivo neocacu.zip, encontrará:
 
     install.sh — script para instalar o comando globalmente no sistema
 
-    guia.txt — este guia completo
+    license — licença do progama
 
 ---
 
